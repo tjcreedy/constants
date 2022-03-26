@@ -1,2 +1,2 @@
-# Gene name variants
-This repo stores a text file recording variant names for mitochondrial genes for use by scripts.
+# Constants
+This repo stores text files recording constants to be downloaded by other scripts of mine
